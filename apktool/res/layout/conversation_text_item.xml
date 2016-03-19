@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@id/conversation_user_thumbnail_wrapper" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.google.android.libraries.youtube.common.ui.CircularImageView android:id="@id/conversation_user_thumbnail" android:layout_width="@dimen/conversation_avatar_size" android:layout_height="@dimen/conversation_avatar_size" android:contentDescription="@string/accessibility_user_image" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/conversation_event_text_bubble" android:paddingTop="16.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/conversation_primary_text_size" android:textColor="@color/conversation_primary_text_color" android:textColorLink="@color/quantum_googblue" android:id="@id/conversation_event_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textIsSelectable="true" />
+        <LinearLayout android:orientation="horizontal" android:paddingBottom="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/conversation_tertiary_text_size" android:textColor="@color/conversation_tertiary_text_color" android:ellipsize="end" android:id="@id/conversation_reference_user" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="@bool/rtl_single_line_true" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/conversation_tertiary_text_size" android:textColor="@color/conversation_tertiary_text_color" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bullet" android:layout_weight="0.0" />
+            <TextView android:textSize="@dimen/conversation_tertiary_text_size" android:textColor="@color/conversation_tertiary_text_color" android:id="@id/conversation_event_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.0" />
+            <TextView android:textSize="@dimen/conversation_tertiary_text_size" android:textColor="@color/conversation_tertiary_text_color" android:id="@id/conversation_heart_bullet" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bullet" android:layout_weight="0.0" />
+            <TextView android:textSize="@dimen/conversation_tertiary_text_size" android:textColor="@color/conversation_tertiary_text_color" android:id="@id/conversation_hearting_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.google.android.libraries.youtube.conversation.ui.HeartView android:layout_gravity="center_vertical" android:id="@id/conversation_item_heart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:minWidth="56.0dip" android:minHeight="56.0dip" />
+</LinearLayout>

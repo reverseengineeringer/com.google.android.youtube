@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d நிமிடங்கள்</item>
+        <item quantity="zero">0 நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+        <item quantity="two">2 நிமிடங்கள்</item>
+        <item quantity="few">%1$d நிமிடங்கள்</item>
+        <item quantity="many">%1$d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d வினாடிகள்</item>
+        <item quantity="zero">0 வினாடிகள்</item>
+        <item quantity="one">1 வினாடி</item>
+        <item quantity="two">2 வினாடிகள்</item>
+        <item quantity="few">%1$d வினாடிகள்</item>
+        <item quantity="many">%1$d வினாடிகள்</item>
+    </plurals>
+</resources>

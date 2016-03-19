@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="zero">0 минути</item>
+        <item quantity="one">1 минута</item>
+        <item quantity="two">2 минути</item>
+        <item quantity="few">%1$d минути</item>
+        <item quantity="many">%1$d минути</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="zero">0 секунди</item>
+        <item quantity="one">1 секунда</item>
+        <item quantity="two">2 секунди</item>
+        <item quantity="few">%1$d секунди</item>
+        <item quantity="many">%1$d секунди</item>
+    </plurals>
+</resources>

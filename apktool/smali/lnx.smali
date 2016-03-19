@@ -1,0 +1,22 @@
+.class public final Llnx;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Llgn;
+
+
+# direct methods
+.method public constructor <init>(Lrjt;)V
+    .locals 0
+
+    .prologue
+    .line 13
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 14
+    invoke-static {p1}, Ljju;->a(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 15
+    return-void
+.end method

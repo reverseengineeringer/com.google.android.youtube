@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d videoer</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d dage tilbage</item>
+        <item quantity="one">1 dag tilbage</item>
+        <item quantity="two">2 dage tilbage</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d timer tilbage</item>
+        <item quantity="one">1 time tilbage</item>
+        <item quantity="two">2 timer tilbage</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d minutter tilbage</item>
+        <item quantity="one">1 minut tilbage</item>
+        <item quantity="two">2 minutter tilbage</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Spring annoncen over om %1$d sekunder</item>
+        <item quantity="zero">Spring annoncen over om 0 sekunder</item>
+        <item quantity="one">Spring annoncen over om 1 sekund</item>
+        <item quantity="two">Spring annoncen over om 2 sekunder</item>
+        <item quantity="few">Spring annoncen over om %1$d sekunder</item>
+        <item quantity="many">Spring annoncen over om %1$d sekunder</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="zero">0 minutter</item>
+        <item quantity="one">1 minut</item>
+        <item quantity="two">2 minutter</item>
+        <item quantity="few">%1$d minutter</item>
+        <item quantity="many">%1$d minutter</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="zero">0 sekunder</item>
+        <item quantity="one">1 sekund</item>
+        <item quantity="two">2 sekunder</item>
+        <item quantity="few">%1$d sekunder</item>
+        <item quantity="many">%1$d sekunder</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% er uploadet</item>
+        <item quantity="zero">%1$,d%% er uploadet</item>
+        <item quantity="one">%1$,d%% er uploadet</item>
+        <item quantity="two">%1$,d%% er uploadet</item>
+        <item quantity="few">%1$,d%% er uploadet</item>
+        <item quantity="many">%1$,d%% er uploadet</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Der er ca. %1$,d sekunder tilbage</item>
+        <item quantity="zero">Der er ca. %1$,d sekunder tilbage</item>
+        <item quantity="one">Der er ca. %1$,d sekund tilbage</item>
+        <item quantity="two">Der er ca. %1$,d sekunder tilbage</item>
+        <item quantity="few">Der er ca. %1$,d sekunder tilbage</item>
+        <item quantity="many">Der er ca. %1$,d sekunder tilbage</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Der er ca. %1$,d minutter tilbage</item>
+        <item quantity="zero">Der er ca. %1$,d minutter tilbage</item>
+        <item quantity="one">Der er ca. %1$,d minut tilbage</item>
+        <item quantity="two">Der er ca. %1$,d minutter tilbage</item>
+        <item quantity="few">Der er ca. %1$,d minutter tilbage</item>
+        <item quantity="many">Der er ca. %1$,d minutter tilbage</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Der er ca. %1$,d timer tilbage</item>
+        <item quantity="zero">Der er ca. %1$,d timer tilbage</item>
+        <item quantity="one">Der er ca. %1$,d time tilbage</item>
+        <item quantity="two">Der er ca. %1$,d timer tilbage</item>
+        <item quantity="few">Der er ca. %1$,d timer tilbage</item>
+        <item quantity="many">Der er ca. %1$,d timer tilbage</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d afspilninger</item>
+        <item quantity="zero">%1$s · %2$,d afspilninger</item>
+        <item quantity="one">%1$s · %2$,d afspilning</item>
+        <item quantity="two">%1$s · %2$,d afspilninger</item>
+        <item quantity="few">%1$s · %2$,d afspilninger</item>
+        <item quantity="many">%1$s · %2$,d afspilninger</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Synkroniser %1$d nye videoer</item>
+        <item quantity="zero">Synkroniser %1$d nye videoer</item>
+        <item quantity="one">Synkroniser %1$d ny video</item>
+        <item quantity="two">Synkroniser %1$d nye videoer</item>
+        <item quantity="few">Synkroniser %1$d nye videoer</item>
+        <item quantity="many">Synkroniser %1$d nye videoer</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d af %2$d videoer</item>
+        <item quantity="zero">0 ud af 0 videoer</item>
+        <item quantity="one">%1$d af 1 video</item>
+        <item quantity="two">%1$d af %2$d videoer</item>
+        <item quantity="few">%1$d af %2$d videoer</item>
+        <item quantity="many">%1$d af %2$d videoer</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="zero">0 videoer</item>
+        <item quantity="one">1 video</item>
+        <item quantity="two">2 videoer</item>
+        <item quantity="few">%1$d videoer</item>
+        <item quantity="many">%1$d videoer</item>
+    </plurals>
+</resources>

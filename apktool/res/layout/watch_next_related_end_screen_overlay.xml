@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="bottom" android:id="@id/related_endscreen_background" android:background="@drawable/end_screen_overlay" android:layout_width="fill_parent" android:layout_height="200.0dip" />
+    <android.support.v7.widget.RecyclerView android:layout_gravity="bottom" android:id="@id/related_endscreen_results" android:paddingTop="8.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/related_end_screen_list_height" android:overScrollMode="never" />
+</merge>

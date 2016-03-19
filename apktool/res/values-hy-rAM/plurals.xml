@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d րոպե</item>
+        <item quantity="zero">0 րոպե</item>
+        <item quantity="one">1 րոպե</item>
+        <item quantity="two">2 րոպե</item>
+        <item quantity="few">%1$d րոպե</item>
+        <item quantity="many">%1$d րոպե</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d վայրկյան</item>
+        <item quantity="zero">0 վայրկյան</item>
+        <item quantity="one">1 վայրկյան</item>
+        <item quantity="two">2 վայրկյան</item>
+        <item quantity="few">%1$d վայրկյան</item>
+        <item quantity="many">%1$d վայրկյան</item>
+    </plurals>
+</resources>

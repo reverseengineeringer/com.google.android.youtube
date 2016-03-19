@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns">
+    <com.google.android.apps.youtube.app.player.overlay.TapBloomView android:id="@id/tap_image_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <ImageView android:id="@id/swipe_triangle_mid" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fwd_triangle" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:contentDescription="@null"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <ImageView android:id="@id/swipe_triangle_left" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:src="@drawable/fwd_triangle" android:layout_toLeftOf="@id/swipe_triangle_mid" android:layout_centerVertical="true" android:contentDescription="@null" android:layout_marginEnd="12.0dip" android:layout_toStartOf="@id/swipe_triangle_mid"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <ImageView android:id="@id/swipe_triangle_right" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:src="@drawable/fwd_triangle" android:layout_toRightOf="@id/swipe_triangle_mid" android:layout_centerVertical="true" android:contentDescription="@null" android:layout_marginStart="12.0dip" android:layout_toEndOf="@id/swipe_triangle_mid"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</merge>

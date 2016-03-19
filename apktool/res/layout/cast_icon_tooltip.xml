@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.youtube.app.ui.CastIconTooltip android:id="@id/cast_icon_tooltip" android:layout_width="wrap_content" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textSize="@dimen/medium_font_size" android:textColor="@android:color/white" android:id="@id/cast_icon_tooltip_body" android:background="@drawable/cast_icon_tooltip_background" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:paddingBottom="16.0dip" android:layout_width="140.0dip" android:layout_height="wrap_content" android:text="@string/cast_icon_tooltip_text" android:singleLine="false" android:layout_below="@id/cast_icon_tooltip_arrow" res-auto:robotoFont="regular" xmlns:res-auto="http://schemas.android.com/apk/res-auto" />
+    <ImageView android:id="@id/cast_icon_tooltip_arrow" android:layout_width="22.0dip" android:layout_height="12.0dip" android:src="@drawable/tooltip_up_arrow" android:layout_alignParentTop="true" android:contentDescription="@null" />
+</com.google.android.apps.youtube.app.ui.CastIconTooltip>

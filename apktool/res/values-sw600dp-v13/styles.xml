@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+    <style name="Theme.YouTube.YpcTipJar" parent="@style/Theme.YouTube.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DurationOverlay">
+        <item name="android:textSize">@dimen/small_font_size</item>
+        <item name="android:textColor">@color/video_item_duration_font</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginBottom">16.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+    <style name="AdAttribution">
+        <item name="android:textSize">@dimen/small_font_size</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:layout_marginBottom">16.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+</resources>

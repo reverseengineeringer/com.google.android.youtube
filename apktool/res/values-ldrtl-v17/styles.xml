@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DurationOverlay">
+        <item name="android:textSize">@dimen/extra_small_font_size</item>
+        <item name="android:textColor">@color/video_item_duration_font</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="BottomPanelOverlay">
+        <item name="android:textAppearance">?textAppearanceCaptionInverse</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/show_item_overlay_background</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+</resources>

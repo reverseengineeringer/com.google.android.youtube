@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="mr_dialog_fixed_width_major">50.0%</item>
+    <item type="dimen" name="mr_dialog_fixed_width_minor">70.00001%</item>
+    <dimen name="net_thumbnail_requested_width">240.0px</dimen>
+    <dimen name="net_avatar_width">96.0dip</dimen>
+    <dimen name="card_margin_top">20.0dip</dimen>
+    <dimen name="card_margin_bottom">20.0dip</dimen>
+    <dimen name="card_margin_left">20.0dip</dimen>
+    <dimen name="card_margin_right">20.0dip</dimen>
+    <dimen name="gallery_thumb_min_width">200.0dip</dimen>
+    <dimen name="create_gplus_channel_dialog_thumbnail_width">56.0dip</dimen>
+    <dimen name="create_gplus_channel_dialog_thumbnail_height">56.0dip</dimen>
+    <dimen name="thumbnail_overlay_padding">4.0dip</dimen>
+    <item type="dimen" name="detailed_video_title_font_size">@dimen/medium_font_size</item>
+    <item type="dimen" name="detailed_video_author_font_size">@dimen/small_font_size</item>
+    <item type="dimen" name="detailed_video_secondary_font_size">@dimen/small_font_size</item>
+    <item type="dimen" name="detailed_channel_title_font_size">@dimen/large_font_size</item>
+    <item type="dimen" name="detailed_channel_secondary_font_size">@dimen/small_font_size</item>
+    <dimen name="compact_movie_thumbnail_left_margin">100.0dip</dimen>
+    <dimen name="list_item_padding">8.0dip</dimen>
+    <dimen name="status_spinner_width">32.0dip</dimen>
+    <dimen name="status_spinner_height">32.0dip</dimen>
+    <dimen name="volume_seekbar_width">300.0dip</dimen>
+    <dimen name="channel_layer_header_height">80.0dip</dimen>
+    <dimen name="channel_layer_header_padding">12.0dip</dimen>
+    <dimen name="channel_header_avatar_width">64.0dip</dimen>
+    <dimen name="channel_header_avatar_height">64.0dip</dimen>
+    <item type="dimen" name="watch_card_title_font_size">@dimen/extra_large_font_size</item>
+    <dimen name="new_version_available_activity_youtube_logo_width">200.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_height">80.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_margin">96.0dip</dimen>
+    <dimen name="new_version_available_activity_card_padding">32.0dip</dimen>
+    <dimen name="screen_pairing_max_width">480.0dip</dimen>
+    <dimen name="screen_pairing_padding_horizontal">16.0dip</dimen>
+    <dimen name="upload_activity_outer_padding">20.0dip</dimen>
+    <dimen name="watch_while_mini_player_width">300.0dip</dimen>
+    <dimen name="watch_while_mini_player_padding">16.0dip</dimen>
+    <dimen name="watch_while_mini_player_dismiss_drag_distance">200.0dip</dimen>
+    <dimen name="watch_while_mini_player_dismiss_animation_distance">200.0dip</dimen>
+    <dimen name="remote_watch_dialog_width">600.0dip</dimen>
+    <dimen name="remote_watch_dialog_height_no_metadata">270.0dip</dimen>
+    <dimen name="feed_item_thumbnail_width">262.0dip</dimen>
+    <dimen name="feed_item_card_margin_top">6.0dip</dimen>
+    <dimen name="grid_presenter_width_threshold">400.0dip</dimen>
+    <dimen name="compact_promoted_item_thumbnail_margin_end">32.0dip</dimen>
+    <dimen name="offline_video_item_thumbnail_width">292.0dip</dimen>
+    <dimen name="widget_min_width">254.0dip</dimen>
+    <dimen name="widget_min_height">160.0dip</dimen>
+    <dimen name="widget_teaser_width">237.0dip</dimen>
+    <dimen name="widget_teaser_height">133.0dip</dimen>
+    <dimen name="widget_side_margin">0.0dip</dimen>
+    <dimen name="video_grid_vertical_spacing">6.0dip</dimen>
+</resources>

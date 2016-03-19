@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d منٹ</item>
+        <item quantity="zero">0 منٹ</item>
+        <item quantity="one">1 منٹ</item>
+        <item quantity="two">2 منٹ</item>
+        <item quantity="few">%1$d منٹ</item>
+        <item quantity="many">%1$d منٹ</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d سیکنڈز</item>
+        <item quantity="zero">0 سیکنڈز</item>
+        <item quantity="one">1 سیکنڈ</item>
+        <item quantity="two">2 سیکنڈز</item>
+        <item quantity="few">%1$d سیکنڈز</item>
+        <item quantity="many">%1$d سیکنڈز</item>
+    </plurals>
+</resources>

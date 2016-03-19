@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compact_promoted_item_pivot_dimension">368.0dip</dimen>
+    <dimen name="widget_teaser_width">225.0dip</dimen>
+    <dimen name="widget_teaser_height">126.0dip</dimen>
+</resources>

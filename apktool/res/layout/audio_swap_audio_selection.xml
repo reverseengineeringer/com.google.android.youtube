@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/toolbar_container" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" yt:popupTheme="@style/ThemeOverlay.YouTube.Light" yt:theme="@style/ThemeOverlay.YouTube.ActionBar" />
+        <com.google.android.libraries.youtube.edit.audioswap.ui.AudioSwapTabsBar android:id="@id/audio_swap_audio_selection_tabs_bar" android:background="@color/app_bar_primary_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:minHeight="48.0dip" yt:tab_scroll_margin="48.0dip" yt:tab_content_color="@color/audio_swap_tab_text_color" yt:tab_highlight_color="@color/audio_swap_tab_text_color_activated" />
+    </LinearLayout>
+    <android.support.v4.view.ViewPager android:id="@id/audio_swap_audio_selection_view_pager" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolbar_container" />
+    <include layout="@layout/audio_swap_loading_view" />
+    <RelativeLayout android:id="@id/audio_swap_audio_selection_contents_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">විනාඩි %1$d</item>
+        <item quantity="zero">විනාඩි 0</item>
+        <item quantity="one">විනාඩි 1</item>
+        <item quantity="two">විනාඩි 2</item>
+        <item quantity="few">විනාඩි %1$d</item>
+        <item quantity="many">විනාඩි %1$d</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">තත්පර %1$d</item>
+        <item quantity="zero">තත්පර 0</item>
+        <item quantity="one">තත්පර 1</item>
+        <item quantity="two">තත්පර 2</item>
+        <item quantity="few">තත්පර %1$d</item>
+        <item quantity="many">තත්පර %1$d</item>
+    </plurals>
+</resources>

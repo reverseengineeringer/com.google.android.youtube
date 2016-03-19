@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.common.ui.TouchImageView android:id="@id/variable_speed_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/player_variable_speed" android:contentDescription="@string/accessibility_variable_speed" />
+    <TextView android:typeface="sans" android:textColor="#ffcccccc" android:gravity="center_horizontal" android:id="@id/variable_speed_button_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/overflow_variable_speed" android:layout_below="@id/variable_speed_button" android:layout_alignLeft="@id/variable_speed_button" android:layout_alignRight="@id/variable_speed_button" />
+</RelativeLayout>

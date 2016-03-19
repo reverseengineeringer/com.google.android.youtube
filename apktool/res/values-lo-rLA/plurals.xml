@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d ນາທີ</item>
+        <item quantity="zero">0 ນາທີ</item>
+        <item quantity="one">1 ນາທີ</item>
+        <item quantity="two">2 ນາທີ</item>
+        <item quantity="few">%1$d ນາທີ</item>
+        <item quantity="many">%1$d ນາທີ</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d ວິນາທີ</item>
+        <item quantity="zero">0 ວິນາທີ</item>
+        <item quantity="one">1 ວິນາທີ</item>
+        <item quantity="two">2 ວິນາທີ</item>
+        <item quantity="few">%1$d ວິນາທີ</item>
+        <item quantity="many">%1$d ວິນາທີ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_menu_filter_mtrl_alpha" android:id="@id/menu_filter_results" android:title="@string/menu_filter_results" yt:showAsAction="always" />
+</menu>

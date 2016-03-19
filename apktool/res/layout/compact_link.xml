@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/account_item_height" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:yt="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/thumbnail" android:layout_width="@dimen/account_thumbnail_size" android:layout_height="@dimen/account_thumbnail_size" android:layout_marginLeft="@dimen/start_end_padding" android:scaleType="centerInside" />
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceSubhead" android:ellipsize="end" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/start_end_padding" android:maxLines="1" android:singleLine="@bool/rtl_single_line_true" res-auto:robotoFont="regular" xmlns:res-auto="http://schemas.android.com/apk/res-auto" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?actionBarSize" yt:title="@string/upload_edit_audio_swap_audio_selection_title_loading" yt:popupTheme="@style/ThemeOverlay.YouTube.Light" yt:theme="@style/ThemeOverlay.YouTube.ActionBar" yt:navigationIcon="?homeAsUpIndicator" yt:navigationContentDescription="@string/abc_action_bar_up_description" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolbar" layout="@layout/audio_swap_loading_view" />
+    <ListView android:id="@id/audio_swap_category_contents_selection_contents" android:padding="8.0dip" android:visibility="gone" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@android:color/transparent" android:dividerHeight="1.0dip" android:layout_below="@id/toolbar" />
+</RelativeLayout>

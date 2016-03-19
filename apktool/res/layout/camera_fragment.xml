@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/camera_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.opengl.GLSurfaceView android:id="@id/camera_preview" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageButton android:layout_gravity="bottom|center" android:id="@id/switch_camera_button" android:background="@drawable/ic_switch_camera" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginBottom="128.0dip" android:contentDescription="@string/upload_edit_camera_switch" android:transformPivotX="20.0dip" android:transformPivotY="104.0dip" />
+    <Button android:layout_gravity="bottom|center" android:id="@id/record_button" android:background="@drawable/ic_camera_record" android:layout_width="64.0dip" android:layout_height="64.0dip" android:layout_marginBottom="32.0dip" android:contentDescription="@string/upload_edit_camera_record" />
+    <com.google.android.libraries.youtube.edit.camera.RotateLayout android:id="@id/camera_header_rotate" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/camera_header" android:background="@color/camera_header_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/camera_close" android:background="@drawable/ic_capture_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="12.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/record_blink_view" android:background="@drawable/record_blink" android:visibility="invisible" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginRight="12.0dip" android:layout_toLeftOf="@id/record_duration_text" android:layout_centerVertical="true" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/camera_timer_text" android:id="@id/record_duration_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </com.google.android.libraries.youtube.edit.camera.RotateLayout>
+</FrameLayout>

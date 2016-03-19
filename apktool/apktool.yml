@@ -1,0 +1,56 @@
+version: 2.0.2
+apkFileName: base9.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '23'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '110759634'
+  versionName: 11.07.59
+sharedLibrary: false
+unknownFiles:
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '0'
+  com/google/ipc/invalidation/common/Base_constants.gwt.xml: '0'
+  com/google/ipc/invalidation/common/Client-common2.gwt.xml: '0'
+  com/google/ipc/invalidation/external/client2/Api.gwt.xml: '0'
+  com/google/ipc/invalidation/external/client2/types/Types.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Exponential_backoff.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Formatter.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Internal_base.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Preconditions.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Proto_wrapper.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Typed_util.gwt.xml: '0'
+  com/google/ipc/invalidation/util/Types_api.gwt.xml: '0'
+  dagger/Core.gwt.xml: '0'
+  dagger/Dagger.gwt.xml: '0'
+  error_prone/Annotations.gwt.xml: '0'
+  javax/inject/Inject.gwt.xml: '0'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '0'
+  jsr330_inject/Jsr330_inject.gwt.xml: '0'
+  third_party/java_src/dagger/project/core/Core.gwt.xml: '0'
+  third_party/java_src/dagger/project/dagger1/core/main/Main.gwt.xml: '0'
+  third_party/java_src/error_prone/Annotations.gwt.xml: '0'
+  third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml: '0'
+  third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml: '0'
+  third_party/java_src/jsr330_inject/Jsr330_inject.gwt.xml: '0'
+doNotCompress:
+- resources.arsc
+- res/drawable-nodpi-v4/glamour_vignette_01.webp
+- res/drawable-nodpi-v4/glamour_vignette_02.webp
+- res/drawable-nodpi-v4/glamour_vignette_03.webp
+- res/drawable-nodpi-v4/glamour_vignette_04.webp
+- res/drawable-nodpi-v4/glamour_vignette_05.webp
+- res/drawable-nodpi-v4/glamour_vignette_06.webp
+- res/drawable-nodpi-v4/glamour_vignette_07.webp
+- res/drawable-nodpi-v4/glamour_vignette_08.webp
+- res/drawable-nodpi-v4/glamour_vignette_09.webp
+- res/drawable-nodpi-v4/glamour_vignette_10.webp
+- res/drawable-nodpi-v4/glamour_vignette_11.webp
+- res/drawable-nodpi-v4/glamour_vignette_12.webp
+- res/drawable-nodpi-v4/glamour_vignette_13.webp
+- res/drawable-nodpi-v4/glamour_vignette_14.webp

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/loading_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" _xmlns:android="http://schemas.android.com/apk/res/android" _xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="16.0dip" android:paddingTop="22.0dip" android:paddingRight="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.SwitchCompat android:theme="@style/Widget.YouTube.Control.Alternate" android:textAppearance="?textAppearanceBody1" android:id="@id/collaboration_state_switch" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:background="?backgroundTertiary" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="18.0dip" android:layout_marginBottom="18.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/get_link_section" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody1" android:id="@id/get_link_description" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <TextView android:id="@id/get_link_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Widget.AppCompat.Button.Colored" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/link_sharing_section" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody1" android:id="@id/share_link_description" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceCaption" android:id="@id/invite_link" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:maxLines="1" android:singleLine="@bool/rtl_single_line_true" android:drawableLeft="@drawable/quantum_ic_link_grey600_18" android:drawablePadding="6.0dip" />
+            <TextView android:id="@id/share_link_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" style="@style/Widget.AppCompat.Button.Colored" />
+            <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?textAppearanceBody1" android:id="@id/revoke_links_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+            <TextView android:id="@id/revoke_links_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" style="@style/Widget.AppCompat.Button" />
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.libraries.youtube.common.ui.LoadingFrameLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.youtube.app.ui.AppTabsBar android:id="@id/tabs_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?actionBarSize" yt:tab_scroll_margin="48.0dip" yt:tab_content_color="@color/theme_main_tab_text_color" yt:tab_highlight_color="#50000000"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto" />

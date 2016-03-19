@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minuta</item>
+        <item quantity="zero">0 minuta</item>
+        <item quantity="one">1 minutë</item>
+        <item quantity="two">2 minuta</item>
+        <item quantity="few">%1$d minuta</item>
+        <item quantity="many">%1$d minuta</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d sekonda</item>
+        <item quantity="zero">0 sekonda</item>
+        <item quantity="one">1 sekondë</item>
+        <item quantity="two">2 sekonda</item>
+        <item quantity="few">%1$d sekonda</item>
+        <item quantity="many">%1$d sekonda</item>
+    </plurals>
+</resources>

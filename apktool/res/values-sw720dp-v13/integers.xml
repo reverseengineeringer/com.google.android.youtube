@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="detailed_channel_item_thumbnail_weight">8</integer>
+    <integer name="detailed_channel_item_metadata_weight">1</integer>
+    <integer name="watch_card_related_entities_count">5</integer>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:background="#ff222222" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <ListView android:id="@id/set_list" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="#ff222222" android:divider="@null" android:dividerHeight="0.0dip" android:smoothScrollbar="false" />
+</com.google.android.libraries.youtube.common.ui.LoadingFrameLayout>

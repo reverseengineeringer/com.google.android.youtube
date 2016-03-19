@@ -1,0 +1,19 @@
+final class bbx
+  extends bbr
+{
+  public final float a(int paramInt1, int paramInt2, int paramInt3, int paramInt4)
+  {
+    return 1.0F;
+  }
+  
+  public final int a()
+  {
+    return bby.b;
+  }
+}
+
+/* Location:
+ * Qualified Name:     bbx
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

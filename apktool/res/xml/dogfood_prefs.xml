@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:key="media_network_activation_type" android:defaultValue="0" />
+    <EditTextPreference android:digits="0123456789, " android:key="experiment_ids" android:defaultValue="" android:inputType="number" />
+    <EditTextPreference android:digits="0123456789." android:key="innertube_override_version" android:defaultValue="" />
+    <EditTextPreference android:key="innertube_promo_id" android:defaultValue="" android:inputType="textNoSuggestions" />
+    <Preference android:key="visitor_id" />
+    <ListPreference android:key="internal_geo" />
+    <Preference android:key="refresh_innertube_config" />
+    <SwitchPreference android:key="enable_upload_video_editing" android:defaultValue="false" />
+    <SwitchPreference android:key="enable_upload_audio_swap" android:defaultValue="false" />
+    <SwitchPreference android:key="enable_upload_filters" android:defaultValue="false" />
+    <ListPreference android:key="camera_recorder_type" android:defaultValue="0" />
+    <ListPreference android:key="camera_audio_source" android:defaultValue="0" />
+    <SwitchPreference android:key="mdx_enable_fiji" android:defaultValue="false" />
+    <SwitchPreference android:key="mdx_enable_verbose_logging" android:defaultValue="false" />
+    <SwitchPreference android:title="@string/pref_developer_enable_inline_controls" android:key="enable_inline_controls" android:defaultValue="false" />
+    <SwitchPreference android:title="@string/pref_developer_show_inline_lozenge_on_pause" android:key="show_inline_lozenge_on_pause" android:defaultValue="false" />
+    <SwitchPreference android:key="enable_glide_image_manager" android:defaultValue="false" />
+</PreferenceScreen>

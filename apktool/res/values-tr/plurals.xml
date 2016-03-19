@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d video</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d gün kaldı</item>
+        <item quantity="one">1 gün kaldı</item>
+        <item quantity="two">2 gün kaldı</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d saat kaldı</item>
+        <item quantity="one">1 saat kaldı</item>
+        <item quantity="two">2 saat kaldı</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d dakika kaldı</item>
+        <item quantity="one">1 dakika kaldı</item>
+        <item quantity="two">2 dakika kaldı</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d saniye içinde reklamı atlayabilirsiniz</item>
+        <item quantity="zero">0 saniye içinde reklamı atlayabilirsiniz</item>
+        <item quantity="one">1 saniye içinde reklamı atlayabilirsiniz</item>
+        <item quantity="two">2 saniye içinde reklamı atlayabilirsiniz</item>
+        <item quantity="few">%1$d saniye içinde reklamı atlayabilirsiniz</item>
+        <item quantity="many">%1$d saniye içinde reklamı atlayabilirsiniz</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="zero">0 dakika</item>
+        <item quantity="one">1 dakika</item>
+        <item quantity="two">2 dakika</item>
+        <item quantity="few">%1$d dakika</item>
+        <item quantity="many">%1$d dakika</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="zero">0 saniye</item>
+        <item quantity="one">1 saniye</item>
+        <item quantity="two">2 saniye</item>
+        <item quantity="few">%1$d saniye</item>
+        <item quantity="many">%1$d saniye</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%%%1$,d yüklendi</item>
+        <item quantity="zero">%%%1$,d yüklendi</item>
+        <item quantity="one">%%%1$,d yüklendi</item>
+        <item quantity="two">%%%1$,d yüklendi</item>
+        <item quantity="few">%%%1$,d yüklendi</item>
+        <item quantity="many">%%%1$,d yüklendi</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Yaklaşık %1$,d saniye kaldı</item>
+        <item quantity="zero">Yaklaşık %1$,d saniye kaldı</item>
+        <item quantity="one">Yaklaşık %1$,d saniye kaldı</item>
+        <item quantity="two">Yaklaşık %1$,d saniye kaldı</item>
+        <item quantity="few">Yaklaşık %1$,d saniye kaldı</item>
+        <item quantity="many">Yaklaşık %1$,d saniye kaldı</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Yaklaşık %1$,d dakika kaldı</item>
+        <item quantity="zero">Yaklaşık %1$,d dakika kaldı</item>
+        <item quantity="one">Yaklaşık %1$,d dakika kaldı</item>
+        <item quantity="two">Yaklaşık %1$,d dakika kaldı</item>
+        <item quantity="few">Yaklaşık %1$,d dakika kaldı</item>
+        <item quantity="many">Yaklaşık %1$,d dakika kaldı</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Yaklaşık %1$,d saat kaldı</item>
+        <item quantity="zero">Yaklaşık %1$,d saat kaldı</item>
+        <item quantity="one">Yaklaşık %1$,d saat kaldı</item>
+        <item quantity="two">Yaklaşık %1$,d saat kaldı</item>
+        <item quantity="few">yaklaşık %1$,d saat kaldı</item>
+        <item quantity="many">Yaklaşık %1$,d saat kaldı</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s %2$,d görüntüleme</item>
+        <item quantity="zero">%1$s %2$,d görüntüleme</item>
+        <item quantity="one">%1$s · %2$,d görüntüleme</item>
+        <item quantity="two">%1$s %2$,d görüntüleme</item>
+        <item quantity="few">%1$s %2$,d görüntüleme</item>
+        <item quantity="many">%1$s %2$,d görüntüleme</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">%1$d yeni videoyu senkronize et</item>
+        <item quantity="zero">%1$d yeni videoyu senkronize et</item>
+        <item quantity="one">%1$d yeni videoyu senkronize et</item>
+        <item quantity="two">%1$d yeni videoyu senkronize et</item>
+        <item quantity="few">%1$d yeni videoyu senkronize et</item>
+        <item quantity="many">%1$d yeni videoyu senkronize et</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d/%2$d video</item>
+        <item quantity="zero">0 / 0 video</item>
+        <item quantity="one">%1$d/1 video</item>
+        <item quantity="two">%1$d/%2$d video</item>
+        <item quantity="few">%1$d/%2$d video</item>
+        <item quantity="many">%1$d/%2$d video</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d video</item>
+        <item quantity="zero">0 video</item>
+        <item quantity="one">1 video</item>
+        <item quantity="two">2 video</item>
+        <item quantity="few">%1$d video</item>
+        <item quantity="many">%1$d video</item>
+    </plurals>
+</resources>

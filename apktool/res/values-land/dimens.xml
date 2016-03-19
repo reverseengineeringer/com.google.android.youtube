@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mr_controller_volume_group_list_max_height">132.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_item_height">61.0dip</dimen>
+    <dimen name="mr_controller_volume_group_list_item_icon_size">18.0dip</dimen>
+    <dimen name="add_connection_thumbnail_size">80.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="launchscreens_product_logo_bottom">48.0dip</dimen>
+    <dimen name="compact_movie_thumbnail_left_margin">30.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_margin">16.0dip</dimen>
+    <dimen name="list_heading_thumbnail_size">40.0dip</dimen>
+    <dimen name="list_item_thumbnail_width">196.0dip</dimen>
+    <dimen name="background_promo_height">160.0dip</dimen>
+    <dimen name="compact_promo_item_square_thumbnail_size">120.0dip</dimen>
+    <dimen name="compact_promoted_item_thumbnail_margin_end">32.0dip</dimen>
+    <dimen name="compact_promoted_item_title_text_size">20.0sp</dimen>
+    <dimen name="compact_promoted_item_subtitle_text_size">16.0sp</dimen>
+    <dimen name="offline_video_item_thumbnail_width">172.0dip</dimen>
+    <dimen name="compact_offer_module_title_font_size">18.0sp</dimen>
+    <dimen name="compact_offer_module_subtitle_font_size">16.0sp</dimen>
+    <dimen name="video_feed_entry_author_padding_top">12.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/video_item_wrapper" android:background="@color/video_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/shared_text" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/conversation_text_item" />
+    <ViewStub android:id="@id/conversation_video_stub" android:layout="@layout/conversation_player_reference" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/inline_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/inline_fullscreen_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:id="@id/video_divider" android:background="@drawable/list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

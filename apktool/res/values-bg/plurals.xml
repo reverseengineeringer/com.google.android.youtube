@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d видеоклипа</item>
+        <item quantity="one">1 видеоклип</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Остават %1$d дни</item>
+        <item quantity="one">Остава 1 ден</item>
+        <item quantity="two">Остават 2 дни</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Остават %1$d часа</item>
+        <item quantity="one">Остава 1 час</item>
+        <item quantity="two">Остават 2 часа</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Остават %1$d минути</item>
+        <item quantity="one">Остава 1 минута</item>
+        <item quantity="two">Остават 2 минути</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Пропускане на рекламата след %1$d секунди</item>
+        <item quantity="zero">Пропускане на рекламата след 0 секунди</item>
+        <item quantity="one">Пропускане на рекламата след 1 секунда</item>
+        <item quantity="two">Пропускане на рекламата след 2 секунди</item>
+        <item quantity="few">Пропускане на рекламата след %1$d секунди</item>
+        <item quantity="many">Пропускане на рекламата след %1$d секунди</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="zero">0 минути</item>
+        <item quantity="one">1 минута</item>
+        <item quantity="two">2 минути</item>
+        <item quantity="few">%1$d минути</item>
+        <item quantity="many">%1$d минути</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="zero">0 секунди</item>
+        <item quantity="one">1 секунда</item>
+        <item quantity="two">2 секунди</item>
+        <item quantity="few">%1$d секунди</item>
+        <item quantity="many">%1$d секунди</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">Качено: %1$,d%%</item>
+        <item quantity="zero">Качено: %1$,d%%</item>
+        <item quantity="one">Качено: %1$,d%%</item>
+        <item quantity="two">Качено: %1$,d%%</item>
+        <item quantity="few">Качено: %1$,d%%</item>
+        <item quantity="many">Качено: %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Остават около %1$,d секунди</item>
+        <item quantity="zero">Остават около %1$,d секунди</item>
+        <item quantity="one">Остава около %1$,d секунда</item>
+        <item quantity="two">Остават около %1$,d секунди</item>
+        <item quantity="few">Остават около %1$,d секунди</item>
+        <item quantity="many">Остават около %1$,d секунди</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Остават около %1$,d минути</item>
+        <item quantity="zero">Остават около %1$,d минути</item>
+        <item quantity="one">Остава около %1$,d минута</item>
+        <item quantity="two">Остават около %1$,d минути</item>
+        <item quantity="few">Остават около %1$,d минути</item>
+        <item quantity="many">Остават около %1$,d минути</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Остават около %1$,d часа</item>
+        <item quantity="zero">Остават около %1$,d часа</item>
+        <item quantity="one">Остава около %1$,d час</item>
+        <item quantity="two">Остават около %1$,d часа</item>
+        <item quantity="few">Остават около %1$,d часа</item>
+        <item quantity="many">Остават около %1$,d часа</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s %2$,d показвания</item>
+        <item quantity="zero">%1$s %2$,d показвания</item>
+        <item quantity="one">%1$s · %2$,d показване</item>
+        <item quantity="two">%1$s %2$,d показвания</item>
+        <item quantity="few">%1$s %2$,d показвания</item>
+        <item quantity="many">%1$s %2$,d показвания</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Синхронизиране на %1$d нови видеоклипа</item>
+        <item quantity="zero">Синхронизиране на %1$d нови видеоклипа</item>
+        <item quantity="one">Синхронизиране на %1$d нов видеоклип</item>
+        <item quantity="two">Синхронизиране на %1$d нови видеоклипа</item>
+        <item quantity="few">Синхронизиране на %1$d нови видеоклипа</item>
+        <item quantity="many">Синхронизиране на %1$d нови видеоклипа</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d от %2$d видеоклипа</item>
+        <item quantity="zero">0 от 0 видеоклипа</item>
+        <item quantity="one">%1$d от 1 видеоклип</item>
+        <item quantity="two">%1$d от %2$d видеоклипа</item>
+        <item quantity="few">%1$d от %2$d видеоклипа</item>
+        <item quantity="many">%1$d от %2$d видеоклипа</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d видеоклипа</item>
+        <item quantity="zero">0 видеоклипа</item>
+        <item quantity="one">1 видеоклип</item>
+        <item quantity="two">2 видеоклипа</item>
+        <item quantity="few">%1$d видеоклипа</item>
+        <item quantity="many">%1$d видеоклипа</item>
+    </plurals>
+</resources>

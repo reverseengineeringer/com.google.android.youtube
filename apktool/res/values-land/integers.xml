@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="detailed_channel_item_thumbnail_weight">6</integer>
+    <integer name="detailed_channel_item_metadata_weight">1</integer>
+    <integer name="compact_movie_item_thumbnail_weight">5</integer>
+    <integer name="compact_movie_item_metadata_weight">2</integer>
+    <integer name="my_uploads_num_columns">1</integer>
+    <integer name="my_upload_item_thumbnail_weight">5</integer>
+    <integer name="my_upload_item_metadata_weight">2</integer>
+    <integer name="watch_card_related_entities_count">4</integer>
+    <integer name="horizontal_shelf_num_columns">3</integer>
+</resources>

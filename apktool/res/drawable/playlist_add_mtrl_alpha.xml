@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/ic_playlist_add_check_mtrl_alpha" />
+    <item android:drawable="@drawable/ic_playlist_add_mtrl_alpha" />
+</selector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d నిమిషాలు</item>
+        <item quantity="zero">0 నిమిషాలు</item>
+        <item quantity="one">1 నిమిషం</item>
+        <item quantity="two">2 నిమిషాలు</item>
+        <item quantity="few">%1$d నిమిషాలు</item>
+        <item quantity="many">%1$d నిమిషాలు</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d సెకన్లు</item>
+        <item quantity="zero">0 సెకన్లు</item>
+        <item quantity="one">1 సెకను</item>
+        <item quantity="two">2 సెకన్లు</item>
+        <item quantity="few">%1$d సెకన్లు</item>
+        <item quantity="many">%1$d సెకన్లు</item>
+    </plurals>
+</resources>

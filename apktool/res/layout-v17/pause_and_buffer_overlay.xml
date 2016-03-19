@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/pause_and_buffer_overlay_panel" android:background="@drawable/pause_and_buffer_panel_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="24.0dip" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/pause_and_buffer_error_icon" android:background="@drawable/quantum_ic_error_white_18" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginLeft="8.0dip" android:layout_marginStart="8.0dip" />
+    <ProgressBar android:layout_gravity="center_vertical" android:id="@id/pause_and_buffer_loading_view" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginLeft="8.0dip" android:indeterminate="true" android:layout_marginStart="8.0dip" />
+    <TextView android:textSize="12.0sp" android:textColor="@android:color/white" android:layout_gravity="center_vertical" android:id="@id/pause_and_buffer_label" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" />
+</LinearLayout>

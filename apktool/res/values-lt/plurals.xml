@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">Vaizdo įrašų: %1$,d</item>
+        <item quantity="one">Vaizdo įrašų: 1</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Liko %1$d d.</item>
+        <item quantity="one">Liko 1 d.</item>
+        <item quantity="two">Liko 2 d.</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Liko %1$d val.</item>
+        <item quantity="one">Liko 1 val.</item>
+        <item quantity="two">Liko 2 val.</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Liko %1$d min.</item>
+        <item quantity="one">Liko 1 min.</item>
+        <item quantity="two">Liko 2 min.</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Praleisti skelbimą po %1$d sekundžių</item>
+        <item quantity="zero">Praleisti skelbimą po 0 sekundžių</item>
+        <item quantity="one">Praleisti skelbimą po 1 sekundės</item>
+        <item quantity="two">Praleisti skelbimą po 2 sekundžių</item>
+        <item quantity="few">Praleisti skelbimą po %1$d sekundžių</item>
+        <item quantity="many">Praleisti skelbimą po %1$d sekundės</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minučių</item>
+        <item quantity="zero">0 minučių</item>
+        <item quantity="one">1 minutė</item>
+        <item quantity="two">2 minutės</item>
+        <item quantity="few">%1$d minutės</item>
+        <item quantity="many">%1$d minutės</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d sekundžių</item>
+        <item quantity="zero">0 sekundžių</item>
+        <item quantity="one">1 sekundė</item>
+        <item quantity="two">2 sekundės</item>
+        <item quantity="few">%1$d sekundės</item>
+        <item quantity="many">%1$d sekundės</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">Įkelta %1$,d %%</item>
+        <item quantity="zero">Įkelta %1$,d %%</item>
+        <item quantity="one">Įkelta %1$,d %%</item>
+        <item quantity="two">Įkelta %1$,d %%</item>
+        <item quantity="few">Įkelta %1$,d %%</item>
+        <item quantity="many">Įkelta %1$,d %%</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Liko apie %1$,d sek.</item>
+        <item quantity="zero">Liko apie %1$,d sek.</item>
+        <item quantity="one">Liko apie %1$,d sek.</item>
+        <item quantity="two">Liko apie %1$,d sek.</item>
+        <item quantity="few">Liko apie %1$,d sek.</item>
+        <item quantity="many">Liko apie %1$,d sek.</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Liko apie %1$,d min.</item>
+        <item quantity="zero">Liko apie %1$,d min.</item>
+        <item quantity="one">Liko apie %1$,d min.</item>
+        <item quantity="two">Liko apie %1$,d min.</item>
+        <item quantity="few">Liko apie %1$,d min.</item>
+        <item quantity="many">Liko apie %1$,d min.</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Liko apie %1$,d val.</item>
+        <item quantity="zero">Liko apie %1$,d val.</item>
+        <item quantity="one">Liko apie %1$,d val.</item>
+        <item quantity="two">Liko apie %1$,d val.</item>
+        <item quantity="few">Liko apie %1$,d val.</item>
+        <item quantity="many">Liko apie %1$,d val.</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s, peržiūrų: %2$,d</item>
+        <item quantity="zero">%1$s, peržiūrų: %2$,d</item>
+        <item quantity="one">%1$s peržiūrų: %2$,d</item>
+        <item quantity="two">%1$s, peržiūrų: %2$,d</item>
+        <item quantity="few">%1$s, peržiūrų: %2$,d</item>
+        <item quantity="many">%1$s, peržiūrų: %2$,d</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Sinchronizuoti %1$d nauj. vaizdo įraš.</item>
+        <item quantity="zero">Sinchronizuoti %1$d naujų vaizdo įrašų</item>
+        <item quantity="one">Sinchronizuoti %1$d naują vaizdo įrašą</item>
+        <item quantity="two">Sinchronizuoti %1$d naujus vaizdo įrašus</item>
+        <item quantity="few">Sinchronizuoti %1$d nauj. vaizdo įraš.</item>
+        <item quantity="many">Sinchronizuoti %1$d nauj. vaizdo įraš.</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d iš %2$d vaizdo įrašų</item>
+        <item quantity="zero">0 iš 0 vaizdo įrašų</item>
+        <item quantity="one">%1$d iš 1 vaizdo įrašo</item>
+        <item quantity="two">%1$d iš %2$d vaizdo įrašų</item>
+        <item quantity="few">%1$d iš %2$d vaizdo įrašų</item>
+        <item quantity="many">%1$d iš %2$d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d vaizdo įr.</item>
+        <item quantity="zero">0 vaizdo įrašų</item>
+        <item quantity="one">Vaizdo įrašų: 1</item>
+        <item quantity="two">2 vaizdo įrašai</item>
+        <item quantity="few">%1$d vaizdo įr.</item>
+        <item quantity="many">%1$d vaizdo įr.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/ad_companion_card" android:layout="@layout/ad_companion_card" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/app_promotion_card" android:layout="@layout/app_promotion_card" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/ypc_offer_companion_ad_card" android:layout="@layout/ypc_offer_companion_ad_card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="16.0dip" />
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom|center|right" android:id="@id/branding_watermark" android:layout_width="@dimen/annotation_branding_watermark_width" android:layout_height="@dimen/annotation_branding_watermark_width" android:layout_margin="12.0dip" android:scaleType="centerInside" android:alpha="0.7" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/promo_video" android:layout_width="wrap_content" android:layout_height="@dimen/annotation_banner_height" style="@style/AnnotationBanner">
+        <RelativeLayout android:layout_width="@dimen/annotation_banner_icon_width" android:layout_height="@dimen/annotation_banner_icon_height">
+            <ImageView android:id="@id/promo_video_thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/AnnotationBannerThumbnailImage" />
+            <TextView android:id="@id/promo_video_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/AnnotationBannerThumbnailImageVideoDurationText" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/AnnotationBannerTextContent">
+            <TextView android:id="@id/promo_video_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ivp_watch_next" style="@style/AnnotationBannerDescriptionText" />
+            <TextView android:id="@id/promo_video_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AnnotationBannerTitleText" />
+        </LinearLayout>
+        <ImageButton android:id="@id/promo_video_dismiss" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_annotation_close" android:contentDescription="@string/accessibility_annotation_overlay_promo_dismiss" style="@style/AnnotationBannerCloseIcon" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/promo_website_expanded" android:layout_width="wrap_content" android:layout_height="@dimen/annotation_banner_height" style="@style/AnnotationBanner">
+        <ImageView android:id="@id/promo_website_thumbnail_expanded" android:layout_width="@dimen/annotation_banner_icon_height" android:layout_height="@dimen/annotation_banner_icon_height" style="@style/AnnotationBannerThumbnailImage" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/AnnotationBannerTextContent">
+            <TextView android:id="@id/promo_website_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AnnotationBannerTitleText" />
+            <TextView android:id="@id/promo_website_description" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AnnotationBannerDescriptionText" />
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="@dimen/annotation_banner_icon_height" android:src="@drawable/ic_annotation_external_link" style="@style/AnnotationBannerIcon" />
+        <ImageButton android:id="@id/promo_website_dismiss" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_annotation_close" android:contentDescription="@string/accessibility_annotation_overlay_promo_dismiss" style="@style/AnnotationBannerCloseIcon" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/promo_website_collapsed" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AnnotationBanner">
+        <ImageView android:id="@id/promo_website_thumbnail_collapsed" android:layout_width="@dimen/annotation_banner_icon_height" android:layout_height="@dimen/annotation_banner_icon_height" style="@style/AnnotationBannerThumbnailImage" />
+        <ImageView android:id="@id/promo_website_expand_arrow" android:background="@null" android:layout_width="16.0dip" android:layout_height="@dimen/annotation_banner_icon_height" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/ic_annotation_expand_right" android:scaleType="centerInside" android:contentDescription="@string/accessibility_annotation_overlay_promo_expand" />
+    </LinearLayout>
+</FrameLayout>

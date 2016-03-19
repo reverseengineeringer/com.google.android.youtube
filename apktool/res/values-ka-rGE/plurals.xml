@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d წუთი</item>
+        <item quantity="zero">0 წუთი</item>
+        <item quantity="one">1 წუთი</item>
+        <item quantity="two">2 წუთი</item>
+        <item quantity="few">%1$d წუთი</item>
+        <item quantity="many">%1$d წუთი</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d წამი</item>
+        <item quantity="zero">0 წამი</item>
+        <item quantity="one">1 წამი</item>
+        <item quantity="two">2 წამი</item>
+        <item quantity="few">%1$d წამი</item>
+        <item quantity="many">%1$d წამი</item>
+    </plurals>
+</resources>

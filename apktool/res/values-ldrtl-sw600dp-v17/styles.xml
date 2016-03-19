@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DurationOverlay">
+        <item name="android:textSize">@dimen/small_font_size</item>
+        <item name="android:textColor">@color/video_item_duration_font</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:layout_marginBottom">16.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textIsSelectable">false</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+    </style>
+</resources>

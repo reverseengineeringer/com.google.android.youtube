@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="top" android:layout_gravity="top" android:tag="comment" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.youtube.common.ui.CircularImageView android:id="@id/liveCommentThumbnail" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="4.0dip" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/live_comment_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="46.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="4.0dip">
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textSize="@dimen/extra_small_font_size" android:textColor="#ff000000" android:gravity="left" android:id="@id/liveCommentText" android:tag="comment_text" android:layout_width="wrap_content" android:layout_height="wrap_content" yt:robotoFont="light" />
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textSize="@dimen/extra_extra_small_font_size" android:textColor="@color/light_grey" android:gravity="left" android:id="@id/liveCommentAuthor" android:tag="comment_author" android:layout_width="wrap_content" android:layout_height="wrap_content" yt:robotoFont="light" />
+    </LinearLayout>
+</FrameLayout>

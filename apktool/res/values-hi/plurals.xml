@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d वीडियो</item>
+        <item quantity="one">1 वीडियो</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d दिन शेष</item>
+        <item quantity="one">1 दिन शेष</item>
+        <item quantity="two">2 दिन शेष</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d घंटे शेष</item>
+        <item quantity="one">1 घंटा शेष</item>
+        <item quantity="two">2 घंटे शेष</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d मिनट शेष</item>
+        <item quantity="one">1 मिनट शेष</item>
+        <item quantity="two">2 मिनट शेष</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d सेकंड में विज्ञापन छोड़ें</item>
+        <item quantity="zero">0 सेकंड में विज्ञापन छोड़ें</item>
+        <item quantity="one">1 सेकंड में विज्ञापन छोड़ें</item>
+        <item quantity="two">2 सेकंड में विज्ञापन छोड़ें</item>
+        <item quantity="few">%1$d सेकंड में विज्ञापन छोड़ें</item>
+        <item quantity="many">%1$d सेकंड में विज्ञापन छोड़ें</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d मिनट</item>
+        <item quantity="zero">0 मिनट</item>
+        <item quantity="one">1 मिनट</item>
+        <item quantity="two">2 मिनट</item>
+        <item quantity="few">%1$d मिनट</item>
+        <item quantity="many">%1$d मिनट</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d सेकंड</item>
+        <item quantity="zero">0 सेकंड</item>
+        <item quantity="one">1 सेकंड</item>
+        <item quantity="two">2 सेकंड</item>
+        <item quantity="few">%1$d सेकंड</item>
+        <item quantity="many">%1$d सेकंड</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% अपलोड किया गया</item>
+        <item quantity="zero">%1$,d%% अपलोड किया गया</item>
+        <item quantity="one">%1$,d%% अपलोड किया गया</item>
+        <item quantity="two">%1$,d%% अपलोड किया गया</item>
+        <item quantity="few">%1$,d%% अपलोड किया गया</item>
+        <item quantity="many">%1$,d%% अपलोड किया गया</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">लगभग %1$,d सेकंड शेष</item>
+        <item quantity="zero">लगभग %1$,d सेकंड शेष</item>
+        <item quantity="one">लगभग %1$,d सेकंड शेष</item>
+        <item quantity="two">लगभग %1$,d सेकंड शेष</item>
+        <item quantity="few">लगभग %1$,d सेकंड शेष</item>
+        <item quantity="many">लगभग %1$,d सेकंड शेष</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d बार देखा गया</item>
+        <item quantity="zero">%1$s · %2$,d बार देखा गया</item>
+        <item quantity="one">%1$s · %2$,d बार देखा गया</item>
+        <item quantity="two">%1$s · %2$,d बार देखा गया</item>
+        <item quantity="few">%1$s · %2$,d बार देखा गया</item>
+        <item quantity="many">%1$s · %2$,d बार देखा गया</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">%1$d नए वीडियो का समन्वयन करें</item>
+        <item quantity="zero">%1$d नए वीडियो का समन्वयन करें</item>
+        <item quantity="one">%1$d नए वीडियो का समन्वयन करें</item>
+        <item quantity="two">%1$d नए वीडियो का समन्वयन करें</item>
+        <item quantity="few">%1$d नए वीडियो का समन्वयन करें</item>
+        <item quantity="many">%1$d नए वीडियो का समन्वयन करें</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%2$d में से %1$d वीडियो</item>
+        <item quantity="zero">0 में से 0 वीडियो</item>
+        <item quantity="one">1 में से %1$d वीडियो</item>
+        <item quantity="two">%2$d में से %1$d वीडियो</item>
+        <item quantity="few">%2$d में से %1$d वीडियो</item>
+        <item quantity="many">%2$d में से %1$d वीडियो</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d वीडियो</item>
+        <item quantity="zero">0 वीडियो</item>
+        <item quantity="one">1 वीडियो</item>
+        <item quantity="two">2 वीडियो</item>
+        <item quantity="few">%1$d वीडियो</item>
+        <item quantity="many">%1$d वीडियो</item>
+    </plurals>
+</resources>

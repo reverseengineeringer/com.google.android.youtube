@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_viewer_prompt">Bruker du andre briller?</string>
+    <string name="switch_viewer_action">Bytt</string>
+    <string name="place_your_phone_into_cardboard">Legg telefonen inn i Cardboard-brillene</string>
+    <string name="place_your_viewer_into_viewer_format">Sett inn telefonen din i %s-brillene</string>
+    <string name="viewer_configured_dialog_title">Brillene er konfigurert.</string>
+    <string name="viewer_configured_message_format">Nå er appen konfigurert for %s-briller.</string>
+    <string name="got_it">GREIT</string>
+</resources>

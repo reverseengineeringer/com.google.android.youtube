@@ -1,0 +1,7 @@
+final class oxv {}
+
+/* Location:
+ * Qualified Name:     oxv
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

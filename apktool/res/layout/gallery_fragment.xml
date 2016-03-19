@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.edit.gallery.GalleryNestedScrollView android:id="@id/gallery_nested_scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/camera_button" android:layout_width="fill_parent" android:layout_height="@dimen/gallery_camera_initial_height">
+            <FrameLayout android:layout_gravity="center" android:id="@id/camera_fragment_container" android:background="@color/gallery_camera_container_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/gallery_camera_launch_button_description" />
+            <ImageView android:layout_gravity="center" android:id="@id/camera_overlay" android:background="@color/gallery_camera_overlay_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null" />
+            <ImageView android:layout_gravity="center" android:id="@id/camera_icon_image" android:background="@drawable/quantum_ic_videocam_white_48" android:layout_width="@dimen/gallery_camera_icon_size" android:layout_height="@dimen/gallery_camera_icon_size" android:contentDescription="@null" />
+            <ImageView android:layout_gravity="bottom|center" android:id="@id/camera_chevron_image" android:background="@drawable/quantum_ic_keyboard_arrow_down_white_48" android:layout_width="@dimen/gallery_camera_chevron_icon_size" android:layout_height="@dimen/gallery_camera_chevron_icon_size" android:layout_marginBottom="80.0dip" android:contentDescription="@null" android:alpha="0.0" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/video_grid_fragment_container" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    </LinearLayout>
+</com.google.android.libraries.youtube.edit.gallery.GalleryNestedScrollView>

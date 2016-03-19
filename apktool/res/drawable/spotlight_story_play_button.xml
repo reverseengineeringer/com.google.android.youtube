@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/spotlight_story_play_button_bg_fill_color" />
+    <stroke android:width="@dimen/spotlight_story_play_button_bg_border_width" android:color="@color/spotlight_story_play_button_bg_border_color" />
+    <size android:height="@dimen/spotlight_story_play_button_bg_height" android:width="@dimen/spotlight_story_play_button_bg_width" />
+</shape>

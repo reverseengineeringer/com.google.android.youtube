@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="launchscreens_product_logo_bottom">24.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_margin">32.0dip</dimen>
+    <dimen name="feed_item_thumbnail_width">262.0dip</dimen>
+    <dimen name="compact_promoted_item_thumbnail_margin_end">32.0dip</dimen>
+    <dimen name="offline_video_item_thumbnail_width">192.0dip</dimen>
+    <dimen name="compact_offer_module_title_font_size">20.0sp</dimen>
+    <dimen name="compact_offer_module_subtitle_font_size">18.0sp</dimen>
+    <dimen name="widget_min_width">254.0dip</dimen>
+    <dimen name="widget_teaser_width">214.0dip</dimen>
+    <dimen name="widget_teaser_height">120.0dip</dimen>
+    <dimen name="startup_promo_activity_horizontal_padding">100.0dip</dimen>
+    <dimen name="interstitial_promo_foreground_image_margin_top">32.0dip</dimen>
+</resources>

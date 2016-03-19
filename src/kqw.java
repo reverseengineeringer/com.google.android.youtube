@@ -1,0 +1,7 @@
+public final class kqw {}
+
+/* Location:
+ * Qualified Name:     kqw
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

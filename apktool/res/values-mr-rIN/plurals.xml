@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d मिनिटे</item>
+        <item quantity="zero">0 मिनिटे</item>
+        <item quantity="one">1 मिनिट</item>
+        <item quantity="two">2 मिनिटे</item>
+        <item quantity="few">%1$d मिनिटे</item>
+        <item quantity="many">%1$d मिनिटे</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d सेकंद</item>
+        <item quantity="zero">0 सेकंद</item>
+        <item quantity="one">1 सेकंद</item>
+        <item quantity="two">2 सेकंद</item>
+        <item quantity="few">%1$d सेकंद</item>
+        <item quantity="many">%1$d सेकंद</item>
+    </plurals>
+</resources>

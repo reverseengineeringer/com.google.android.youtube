@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.common.ui.TouchImageView android:id="@id/nerd_stats_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/player_nerd_stats" android:contentDescription="@string/accessibility_nerd_stats" />
+    <TextView android:typeface="sans" android:textColor="#ffcccccc" android:id="@id/nerd_stats_button_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/overflow_nerd_stats" android:layout_toRightOf="@id/nerd_stats_button" android:layout_centerVertical="true" />
+</RelativeLayout>

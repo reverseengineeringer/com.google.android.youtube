@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.youtube.app.mdx.watch.MdxWatchDrawerLayout android:id="@id/mdx_drawer_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/mdx_drawer" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/mdx_remote_queue" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/mdx_minibar" />
+    </FrameLayout>
+</com.google.android.apps.youtube.app.mdx.watch.MdxWatchDrawerLayout>

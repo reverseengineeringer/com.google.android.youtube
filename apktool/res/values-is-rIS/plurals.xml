@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d mínútur</item>
+        <item quantity="zero">0 mínútur</item>
+        <item quantity="one">1 mínúta</item>
+        <item quantity="two">2 mínútur</item>
+        <item quantity="few">%1$d mínútur</item>
+        <item quantity="many">%1$d mínútur</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d sekúndur</item>
+        <item quantity="zero">0 sekúndur</item>
+        <item quantity="one">1 sekúnda</item>
+        <item quantity="two">2 sekúndur</item>
+        <item quantity="few">%1$d sekúndur</item>
+        <item quantity="many">%1$d sekúndur</item>
+    </plurals>
+</resources>

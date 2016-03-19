@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="mr_dialog_fixed_width_major">60.000004%</item>
+    <item type="dimen" name="mr_dialog_fixed_width_minor">90.0%</item>
+    <dimen name="design_tab_scrollable_min_width">160.0dip</dimen>
+    <dimen name="design_snackbar_min_width">320.0dip</dimen>
+    <dimen name="design_snackbar_max_width">576.0dip</dimen>
+    <dimen name="design_snackbar_background_corner_radius">2.0dip</dimen>
+    <item type="dimen" name="design_snackbar_padding_vertical_2lines">@dimen/design_snackbar_padding_vertical</item>
+    <dimen name="design_snackbar_extra_spacing_horizontal">24.0dip</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">0.0dip</dimen>
+    <dimen name="upsell_dialog_width">400.0dip</dimen>
+    <dimen name="card_margin_top">12.0dip</dimen>
+    <dimen name="card_margin_bottom">12.0dip</dimen>
+    <dimen name="card_margin_left">12.0dip</dimen>
+    <dimen name="card_margin_right">12.0dip</dimen>
+    <dimen name="gallery_thumb_min_width">180.0dip</dimen>
+    <dimen name="innertube_menu_padding">24.0dip</dimen>
+    <dimen name="innertube_menu_width_increment_dp">64.0dip</dimen>
+    <dimen name="extra_extra_small_font_size">12.0sp</dimen>
+    <dimen name="extra_small_font_size">14.0sp</dimen>
+    <dimen name="small_font_size">16.0sp</dimen>
+    <dimen name="medium_font_size">18.0sp</dimen>
+    <dimen name="large_font_size">20.0sp</dimen>
+    <dimen name="extra_large_font_size">22.0sp</dimen>
+    <dimen name="huge_font_size">26.0sp</dimen>
+    <dimen name="tab_new_content_indicator_bottom_padding">8.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">580.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">64.0dip</dimen>
+    <dimen name="abc_action_bar_content_inset_material">24.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8.0dip</dimen>
+    <dimen name="launchscreens_product_logo_bottom">24.0dip</dimen>
+    <dimen name="launchscreens_google_logo_bottom">56.0dip</dimen>
+    <dimen name="start_end_padding">24.0dip</dimen>
+    <dimen name="thumbnail_width">150.0dip</dimen>
+    <dimen name="thumbnail_height">75.0dip</dimen>
+    <dimen name="guide_small_avatar_width">40.0dip</dimen>
+    <dimen name="guide_small_avatar_height">40.0dip</dimen>
+    <item type="dimen" name="detailed_video_title_font_size">@dimen/medium_font_size</item>
+    <item type="dimen" name="detailed_video_author_font_size">@dimen/small_font_size</item>
+    <item type="dimen" name="detailed_video_secondary_font_size">@dimen/small_font_size</item>
+    <item type="dimen" name="detailed_channel_title_font_size">@dimen/large_font_size</item>
+    <item type="dimen" name="detailed_channel_secondary_font_size">@dimen/small_font_size</item>
+    <dimen name="collection_badge_bottom_margin">2.0dip</dimen>
+    <dimen name="compact_movie_thumbnail_left_margin">100.0dip</dimen>
+    <dimen name="compact_movie_list_item_thumbnail_width">180.0dip</dimen>
+    <dimen name="list_item_padding">4.0dip</dimen>
+    <dimen name="volume_seekbar_width">300.0dip</dimen>
+    <dimen name="contextual_menu_width">275.0dip</dimen>
+    <dimen name="channel_layer_header_height">80.0dip</dimen>
+    <dimen name="channel_layer_header_padding">12.0dip</dimen>
+    <dimen name="channel_header_avatar_width">64.0dip</dimen>
+    <dimen name="channel_header_avatar_height">64.0dip</dimen>
+    <dimen name="panel_heading_padding">32.0dip</dimen>
+    <dimen name="panel_heading_drawable_padding">32.0dip</dimen>
+    <dimen name="watch_normal_padding">32.0dip</dimen>
+    <item type="dimen" name="watch_card_title_font_size">@dimen/extra_large_font_size</item>
+    <dimen name="playlist_header_margin_start">64.0dip</dimen>
+    <dimen name="playlist_header_margin_end">24.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_width">150.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_height">61.0dip</dimen>
+    <dimen name="new_version_available_activity_youtube_logo_margin">48.0dip</dimen>
+    <dimen name="new_version_available_activity_card_padding">32.0dip</dimen>
+    <dimen name="screen_pairing_max_width">480.0dip</dimen>
+    <dimen name="screen_pairing_padding_horizontal">8.0dip</dimen>
+    <dimen name="screen_management_header_padding_side">24.0dip</dimen>
+    <dimen name="watch_while_mini_player_width">270.0dip</dimen>
+    <dimen name="watch_while_mini_player_dismiss_drag_distance">150.0dip</dimen>
+    <dimen name="watch_while_mini_player_dismiss_animation_distance">180.0dip</dimen>
+    <dimen name="remote_watch_dialog_width">400.0dip</dimen>
+    <dimen name="remote_watch_dialog_height_no_metadata">175.0dip</dimen>
+    <dimen name="watch_card_related_entities_width">120.0dip</dimen>
+    <dimen name="feed_item_thumbnail_width">192.0dip</dimen>
+    <dimen name="dogfood_warning_dialog_width">300.0dip</dimen>
+    <dimen name="video_info_tutorial_width">450.0dip</dimen>
+    <dimen name="list_heading_thumbnail_size">48.0dip</dimen>
+    <dimen name="list_item_thumbnail_width">188.0dip</dimen>
+    <dimen name="grid_presenter_width_threshold">370.0dip</dimen>
+    <dimen name="purchase_item_thumbnail_size">124.0dip</dimen>
+    <dimen name="keyline_margin_inset_start">24.0dip</dimen>
+    <dimen name="keyline_content_inset_start">80.0dip</dimen>
+    <item type="dimen" name="snackbar_width">@dimen/layout_params_wrap_content</item>
+    <dimen name="snackbar_min_width">288.0dip</dimen>
+    <dimen name="snackbar_max_width">568.0dip</dimen>
+    <dimen name="snackbar_padding">20.0dip</dimen>
+    <dimen name="snackbar_corner_radius">2.0dip</dimen>
+    <dimen name="mealbar_width">360.0dip</dimen>
+    <dimen name="mealbar_bottom_margin">20.0dip</dimen>
+    <item type="dimen" name="mealbar_side_margin">@dimen/watch_while_mini_player_padding</item>
+    <dimen name="mealbar_corner_radius">4.0dip</dimen>
+    <dimen name="background_promo_height">320.0dip</dimen>
+    <dimen name="overlay_play_pause_replay_button_size">128.0dip</dimen>
+    <dimen name="buffering_progress_size">140.0dip</dimen>
+    <dimen name="compact_promoted_item_pivot_dimension">284.0dip</dimen>
+    <dimen name="compact_promo_item_square_thumbnail_size">124.0dip</dimen>
+    <dimen name="compact_promoted_item_thumbnail_margin_end">32.0dip</dimen>
+    <dimen name="compact_promoted_item_title_text_size">20.0sp</dimen>
+    <dimen name="compact_promoted_item_subtitle_text_size">16.0sp</dimen>
+    <dimen name="pause_and_buffer_overlay_margin">28.0dip</dimen>
+    <dimen name="account_item_height">64.0dip</dimen>
+    <dimen name="account_thumbnail_size">48.0dip</dimen>
+    <dimen name="endcap_thumbnail_width">80.0dip</dimen>
+    <dimen name="endcap_thumbnail_height">80.0dip</dimen>
+    <dimen name="offline_video_item_thumbnail_width">262.0dip</dimen>
+    <dimen name="cards_row_empty_footer_height">18.0dip</dimen>
+    <dimen name="compact_offer_module_title_font_size">18.0sp</dimen>
+    <dimen name="compact_offer_module_subtitle_font_size">16.0sp</dimen>
+    <dimen name="widget_min_width">270.0dip</dimen>
+    <dimen name="widget_min_height">160.0dip</dimen>
+    <dimen name="widget_teaser_width">225.0dip</dimen>
+    <dimen name="widget_teaser_height">126.0dip</dimen>
+    <dimen name="widget_side_margin">0.0dip</dimen>
+    <dimen name="video_feed_entry_author_padding_top">14.0dip</dimen>
+</resources>

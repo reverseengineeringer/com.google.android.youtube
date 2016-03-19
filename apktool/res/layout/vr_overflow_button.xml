@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" _xmlns:android="http://schemas.android.com/apk/res/android" xmlns:_xmlns="xmlns"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.common.ui.TouchImageView android:id="@id/vr_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/player_vr_overflow" android:contentDescription="@string/accessibility_enter_vr_mode" />
+    <TextView android:typeface="sans" android:textColor="#ffcccccc" android:gravity="center_horizontal" android:id="@id/vr_button_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/vr_overflow_text" android:layout_below="@id/vr_button" android:layout_alignLeft="@id/vr_button" android:layout_alignRight="@id/vr_button" />
+</RelativeLayout>

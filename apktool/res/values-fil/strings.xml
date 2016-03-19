@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="switch_viewer_prompt">Iba ang viewer mo?</string>
+    <string name="switch_viewer_action">I-switch</string>
+    <string name="place_your_phone_into_cardboard">Ilagay ang telepono mo sa iyong Cardboard viewer.</string>
+    <string name="place_your_viewer_into_viewer_format">Ilagay ang telepono mo sa iyong %s na viewer</string>
+    <string name="viewer_configured_dialog_title">Na-configure na ang viewer!</string>
+    <string name="viewer_configured_message_format">Naka-configure na ngayon ang app para sa %s na viewer.</string>
+    <string name="got_it">NAKUHA KO</string>
+</resources>

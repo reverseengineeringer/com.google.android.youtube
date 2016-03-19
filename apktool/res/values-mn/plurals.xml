@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d видео</item>
+        <item quantity="one">1 видео</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d өдөр үлдсэн</item>
+        <item quantity="one">1 өдөр үлдсэн</item>
+        <item quantity="two">2 өдөр үлдсэн</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d цаг үлдсэн</item>
+        <item quantity="one">1 цаг үлдсэн</item>
+        <item quantity="two">2 цаг үлдсэн</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d минут үлдсэн</item>
+        <item quantity="one">1 минут үлдсэн</item>
+        <item quantity="two">2 минут үлдсэн</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">%1$d секундын дараа зарыг алгасах</item>
+        <item quantity="zero">0 секундын дараа зарыг алгасах</item>
+        <item quantity="one">1 секундын дараа зарыг алгасах</item>
+        <item quantity="two">2 секундын дараа зарыг алгасах</item>
+        <item quantity="few">%1$d секундын дараа зарыг алгасах</item>
+        <item quantity="many">%1$d секундын дараа зарыг алгасах</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% байршуулсан</item>
+        <item quantity="zero">%1$,d%% байршуулсан</item>
+        <item quantity="one">%1$,d%% байршуулсан</item>
+        <item quantity="two">%1$,d%% байршуулсан</item>
+        <item quantity="few">%1$,d%% байршуулсан</item>
+        <item quantity="many">%1$,d%% байршуулсан</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Ойролцоогоор %1$,d секунд үлдэж байна</item>
+        <item quantity="zero">%1$,d орчим секунд үлдэж байна</item>
+        <item quantity="one">Ойролцоогоор %1$,d секунд үлдэж байна</item>
+        <item quantity="two">Ойролцоогоор %1$,d секунд үлдэж байна</item>
+        <item quantity="few">Ойролцоогоор %1$,d секунд үлдэж байна</item>
+        <item quantity="many">Ойролцоогоор %1$,d секунд үлдэж байна</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">%1$,d орчим минут үлдэж байна</item>
+        <item quantity="zero">Ойролцоогоор %1$,d минут үлдэж байна</item>
+        <item quantity="one">Ойролцоогоор %1$,d минут үлдэж байна</item>
+        <item quantity="two">%1$,d орчим минут үлдэж байна</item>
+        <item quantity="few">Ойролцоогоор %1$,d минут үлдэж байна</item>
+        <item quantity="many">Ойролцоогоор %1$,d минут үлдэж байна</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Ойролцоогоор %1$,d цаг үлдэж байна</item>
+        <item quantity="zero">%1$,d орчим цаг үлдэж байна</item>
+        <item quantity="one">Ойролцоогоор %1$,d цаг үлдэж байна</item>
+        <item quantity="two">Ойролцоогоор %1$,d цаг үлдэж байна</item>
+        <item quantity="few">Ойролцоогоор %1$,d цаг үлдэж байна</item>
+        <item quantity="many">Ойролцоогоор %1$,d цаг үлдэж байна</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d үзсэн</item>
+        <item quantity="zero">%1$s · %2$,d үзсэн</item>
+        <item quantity="one">%1$s · %2$,d үзсэн</item>
+        <item quantity="two">%1$s · %2$,d үзсэн</item>
+        <item quantity="few">%1$s · %2$,d үзсэн</item>
+        <item quantity="many">%1$s · %2$,d үзсэн</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">%1$d шинэ видеог синхрончлох</item>
+        <item quantity="zero">%1$d шинэ видеонуудыг синхрончлох</item>
+        <item quantity="one">%1$d шинэ видеог синхрончлох</item>
+        <item quantity="two">%1$d шинэ видеог синхрончлох</item>
+        <item quantity="few">%1$d шинэ видеог синхрончлох</item>
+        <item quantity="many">%1$d шинэ видеог синхрончлох</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%2$d видеоноос %1$d</item>
+        <item quantity="zero">0-с 0 видео</item>
+        <item quantity="one">1 видеоноос %1$d</item>
+        <item quantity="two">%2$d видеоноос %1$d</item>
+        <item quantity="few">%2$d видеоноос %1$d</item>
+        <item quantity="many">%2$d видеоноос %1$d</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="zero">0 видео</item>
+        <item quantity="one">1 видео</item>
+        <item quantity="two">2 видео</item>
+        <item quantity="few">%1$d видео</item>
+        <item quantity="many">%1$d видео</item>
+    </plurals>
+</resources>

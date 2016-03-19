@@ -1,0 +1,16 @@
+final class pog
+{
+  String a;
+  String b;
+  String c;
+  String d;
+  String e;
+  String f;
+  String g;
+}
+
+/* Location:
+ * Qualified Name:     pog
+ * Java Class Version: 6 (50.0)
+ * JD-Core Version:    0.7.1
+ */

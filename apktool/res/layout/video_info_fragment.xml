@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/set_bar" />
+    <com.google.android.libraries.youtube.common.ui.SliderLayout android:id="@id/set_content_slider" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/set_bar" yt:orientation="vertical" yt:collapseStrategy0="occlude" yt:collapseStrategy1="displace">
+        <FrameLayout android:id="@id/set_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.google.android.libraries.youtube.common.ui.LoadingFrameLayout android:id="@id/video_info_loading_layout" android:background="@color/primary_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ListView android:id="@id/watch_list" android:background="@color/primary_background" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:cacheColorHint="@color/primary_background" android:divider="@null" android:dividerHeight="0.0dip" android:smoothScrollbar="false" />
+        </com.google.android.libraries.youtube.common.ui.LoadingFrameLayout>
+    </com.google.android.libraries.youtube.common.ui.SliderLayout>
+    <include layout="@layout/live_chat" />
+    <ViewStub android:id="@id/info_cards_drawer" android:layout="@layout/watch_next_info_card_drawer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

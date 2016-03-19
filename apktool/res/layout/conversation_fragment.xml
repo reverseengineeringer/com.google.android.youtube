@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/conversation_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/conversation_list_stub" android:inflatedId="@id/conversation_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <include android:id="@id/conversation_replies_disabled" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" layout="@layout/conversation_replies_disabled" />
+    <include android:id="@id/loading_progress_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/conversation_loading_progress_bar" />
+    <ViewStub android:id="@id/load_error_stub" android:layout="@layout/conversation_load_error" android:inflatedId="@id/load_error" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="vertical" android:id="@id/conversation_reply_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/conversation_drop_shadow_width_negative">
+        <View android:id="@id/shadow" android:background="@drawable/conversation_reply_shadow" android:layout_width="fill_parent" android:layout_height="@dimen/conversation_drop_shadow_width" />
+        <include android:id="@id/conversation_reply_wrapper" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/conversation_reply_view" />
+    </LinearLayout>
+</LinearLayout>

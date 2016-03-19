@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">Počet videí: %1$,d</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Zostávajúce dni: %1$d</item>
+        <item quantity="one">Zostáva 1 deň</item>
+        <item quantity="two">Zostávajú 2 dni</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Zostáva %1$d hod.</item>
+        <item quantity="one">Zostáva 1 hodina</item>
+        <item quantity="two">Zostávajú 2 hodiny</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Zostáva %1$d min.</item>
+        <item quantity="one">Zostáva 1 minúta</item>
+        <item quantity="two">Zostávajú 2 minúty</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Preskočte reklamu o %1$d sekúnd</item>
+        <item quantity="zero">Preskočte reklamu o 0 sekúnd</item>
+        <item quantity="one">Preskočte reklamu o 1 sekundu</item>
+        <item quantity="two">Preskočte reklamu o 2 sekundy</item>
+        <item quantity="few">Preskočte reklamu o %1$d sekundy</item>
+        <item quantity="many">Preskočte reklamu o %1$d sekúnd</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="zero">0 minút</item>
+        <item quantity="one">1 minúta</item>
+        <item quantity="two">2 minúty</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="zero">0 sekúnd</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="two">2 sekundy</item>
+        <item quantity="few">%1$d s</item>
+        <item quantity="many">%1$d s</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">Nahrané: %1$,d%%</item>
+        <item quantity="zero">Nahrané: %1$,d%%</item>
+        <item quantity="one">Nahrané: %1$,d%%</item>
+        <item quantity="two">Nahrané: %1$,d%%</item>
+        <item quantity="few">Nahrané: %1$,d%%</item>
+        <item quantity="many">Nahrané: %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Zostáva asi %1$,d sekúnd</item>
+        <item quantity="zero">Zostáva asi %1$,d sekúnd</item>
+        <item quantity="one">Zostáva asi %1$,d sekunda</item>
+        <item quantity="two">Zostávajú asi %1$,d sekundy</item>
+        <item quantity="few">Zostávajú asi %1$,d sekundy</item>
+        <item quantity="many">Zostáva asi %1$,d sekundy</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Zostáva asi %1$,d minút</item>
+        <item quantity="zero">Zostáva asi %1$,d minút</item>
+        <item quantity="one">Zostáva asi %1$,d minúta</item>
+        <item quantity="two">Zostávajú asi %1$,d minúty</item>
+        <item quantity="few">Zostávajú asi %1$,d minúty</item>
+        <item quantity="many">Zostáva asi %1$,d minúty</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Zostáva asi %1$,d hodín</item>
+        <item quantity="zero">Zostáva asi %1$,d hodín</item>
+        <item quantity="one">Zostáva asi %1$,d hodina</item>
+        <item quantity="two">Zostávajú asi %1$,d hodiny</item>
+        <item quantity="few">Zostávajú asi %1$,d hodiny</item>
+        <item quantity="many">Zostáva asi %1$,d hodiny</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">Vek: %1$s · Počet zobrazení: %2$,d</item>
+        <item quantity="zero">Vek: %1$s · Počet zobrazení: %2$,d</item>
+        <item quantity="one">Vek: %1$s · Počet zobrazení: %2$,d</item>
+        <item quantity="two">Vek: %1$s · Počet zobrazení: %2$,d</item>
+        <item quantity="few">Vek: %1$s · Počet zobrazení: %2$,d</item>
+        <item quantity="many">Vek: %1$s · Počet zobrazení: %2$,d</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Synchronizovať %1$d nových videí</item>
+        <item quantity="zero">Synchronizovať %1$d nových videí</item>
+        <item quantity="one">Synchronizovať %1$d nové video</item>
+        <item quantity="two">Synchronizovať %1$d nové videá</item>
+        <item quantity="few">Synchronizovať %1$d nové videá</item>
+        <item quantity="many">Synchronizovať %1$d nového videa</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d z %2$d videí</item>
+        <item quantity="zero">0 z 0 videí</item>
+        <item quantity="one">%1$d z 1 videa</item>
+        <item quantity="two">%1$d z %2$d videí</item>
+        <item quantity="few">%1$d z %2$d videí</item>
+        <item quantity="many">%1$d z %2$d videí</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Počet videí: %1$d</item>
+        <item quantity="zero">0 videí</item>
+        <item quantity="one">1 video</item>
+        <item quantity="two">2 videá</item>
+        <item quantity="few">Počet videí: %1$d</item>
+        <item quantity="many">Počet videí: %1$d</item>
+    </plurals>
+</resources>

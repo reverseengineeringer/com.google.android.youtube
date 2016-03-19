@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Quedan %1$d días.</item>
+        <item quantity="one">Queda 1 día.</item>
+        <item quantity="two">Quedan 2 días.</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Quedan %1$d horas.</item>
+        <item quantity="one">Queda 1 hora.</item>
+        <item quantity="two">Quedan 2 horas.</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Quedan %1$d minutos.</item>
+        <item quantity="one">Queda 1 minuto.</item>
+        <item quantity="two">Quedan 2 minutos.</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Omitir anuncio en %1$d segundos</item>
+        <item quantity="zero">Omitir anuncio en 0 segundos</item>
+        <item quantity="one">Omitir anuncio en 1 segundo</item>
+        <item quantity="two">Omitir anuncio en 2 segundos</item>
+        <item quantity="few">Omitir anuncio en %1$d segundos</item>
+        <item quantity="many">Omitir anuncio en %1$d segundos</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="zero">0 minutos</item>
+        <item quantity="one">1 minuto</item>
+        <item quantity="two">2 minutos</item>
+        <item quantity="few">%1$d minutos</item>
+        <item quantity="many">%1$d minutos</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="zero">0 segundos</item>
+        <item quantity="one">1 segundo</item>
+        <item quantity="two">2 segundos</item>
+        <item quantity="few">%1$d segundos</item>
+        <item quantity="many">%1$d segundos</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% subido</item>
+        <item quantity="zero">%1$,d%% subido</item>
+        <item quantity="one">%1$,d%% subido</item>
+        <item quantity="two">%1$,d%% subido</item>
+        <item quantity="few">%1$,d%% subido</item>
+        <item quantity="many">%1$,d%% subido</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Faltan %1$,d segundos aproximadamente</item>
+        <item quantity="zero">Faltan %1$,d segundos aproximadamente</item>
+        <item quantity="one">Falta %1$,d segundo aproximadamente</item>
+        <item quantity="two">Faltan %1$,d segundos aproximadamente</item>
+        <item quantity="few">Faltan %1$,d segundos aproximadamente</item>
+        <item quantity="many">Faltan %1$,d segundos aproximadamente</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Faltan %1$,d minutos aproximadamente</item>
+        <item quantity="zero">Faltan %1$,d minutos aproximadamente</item>
+        <item quantity="one">Falta %1$,d minuto aproximadamente</item>
+        <item quantity="two">Faltan %1$,d minutos aproximadamente</item>
+        <item quantity="few">Faltan %1$,d minutos aproximadamente</item>
+        <item quantity="many">Faltan %1$,d minutos aproximadamente</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Faltan %1$,d horas aproximadamente</item>
+        <item quantity="zero">Faltan %1$,d horas aproximadamente</item>
+        <item quantity="one">Falta %1$,d hora aproximadamente</item>
+        <item quantity="two">Faltan %1$,d horas aproximadamente</item>
+        <item quantity="few">Faltan %1$,d horas aproximadamente</item>
+        <item quantity="many">Faltan %1$,d horas aproximadamente</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s: %2$,d reproducciones</item>
+        <item quantity="zero">%1$s: %2$,d reproducciones</item>
+        <item quantity="one">%1$s: %2$,d reproducción</item>
+        <item quantity="two">%1$s: %2$,d reproducciones</item>
+        <item quantity="few">%1$s: %2$,d reproducciones</item>
+        <item quantity="many">%1$s: %2$,d reproducciones</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Sincronizar %1$d videos nuevos</item>
+        <item quantity="zero">Sincronizar %1$d videos nuevos</item>
+        <item quantity="one">Sincronizar %1$d video nuevo</item>
+        <item quantity="two">Sincronizar %1$d videos nuevos</item>
+        <item quantity="few">Sincronizar %1$d videos nuevos</item>
+        <item quantity="many">Sincronizar %1$d videos nuevos</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d de %2$d videos</item>
+        <item quantity="zero">0 de 0 videos</item>
+        <item quantity="one">%1$d de 1 video</item>
+        <item quantity="two">%1$d de %2$d videos</item>
+        <item quantity="few">%1$d de %2$d videos</item>
+        <item quantity="many">%1$d de %2$d videos</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d videos</item>
+        <item quantity="zero">0 videos</item>
+        <item quantity="one">1 video</item>
+        <item quantity="two">2 videos</item>
+        <item quantity="few">%1$d videos</item>
+        <item quantity="many">%1$d videos</item>
+    </plurals>
+</resources>

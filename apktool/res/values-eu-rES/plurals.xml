@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutu</item>
+        <item quantity="zero">0 minutu</item>
+        <item quantity="one">Minutu bat</item>
+        <item quantity="two">2 minutu</item>
+        <item quantity="few">%1$d minutu</item>
+        <item quantity="many">%1$d minutu</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d segundo</item>
+        <item quantity="zero">0 segundo</item>
+        <item quantity="one">Segundo bat</item>
+        <item quantity="two">2 segundo</item>
+        <item quantity="few">%1$d segundo</item>
+        <item quantity="many">%1$d segundo</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_license_title">Lisensi sumber terbuka</string>
+    <string name="preferences_license_summary">Detail lisensi untuk perangkat lunak sumber terbuka</string>
+    <string name="switch_viewer_prompt">Pakai penampil lain?</string>
+    <string name="switch_viewer_action">Alihkan</string>
+    <string name="place_your_phone_into_cardboard">Tempatkan ponsel ke penampil Cardboard Anda</string>
+    <string name="place_your_viewer_into_viewer_format">Tempatkan ponsel ke dalam penampil %s</string>
+    <string name="viewer_configured_dialog_title">Penampil terkonfigurasi!</string>
+    <string name="viewer_configured_message_format">Aplikasi kini telah dikonfigurasikan untuk penampil %s.</string>
+    <string name="got_it">MENGERTI</string>
+</resources>

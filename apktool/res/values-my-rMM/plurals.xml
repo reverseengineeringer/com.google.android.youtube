@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="zero">၀ မိနစ်</item>
+        <item quantity="one">၁ မိ​နစ်​</item>
+        <item quantity="two">၂ မိနစ်</item>
+        <item quantity="few">%1$d မိနစ်</item>
+        <item quantity="many">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d စက္ကန့်</item>
+        <item quantity="zero">၀ စက္ကန့်</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+        <item quantity="two">၂ စက္ကန့်</item>
+        <item quantity="few">%1$d စက္ကန့်</item>
+        <item quantity="many">%1$d စက္ကန့်</item>
+    </plurals>
+</resources>
